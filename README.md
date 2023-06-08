@@ -14,5 +14,9 @@
 |*IAA-KOBACO (International Advertising Association Diploma)*|*International Advertising Association*|
 |*Google Analytics Individual Qualification*|*Google*|
 
+
+## Contact
+📧 juherb24@gmail.com
 💼 [Linkedin](https://www.linkedin.com/in/jeong-ui-seo-739b19140/) 
+
 
