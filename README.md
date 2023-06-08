@@ -2,7 +2,7 @@
 * Currently: studying data analytics and engineering w/ Python, SQL, R and etc.
 * Previously: Worked as a marketing researcher at KANTAR for 2.5 years.
   * And worked at 3 advertising agencies as an intern.
-  * Starcom, Daehong , Postvisual  
+  * Starcom, Daehong communications, Postvisual  
 * Interested in advertising, media and e-commerce.
 
 ## Licenses & certifications
