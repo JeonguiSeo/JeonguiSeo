@@ -1,6 +1,6 @@
 # Hello, I'm Jeongui Seo.
 * Currently: studying data analytics and engineering w/ Python, SQL, R and etc.
-* Previously: worked as a marketing researcher  KANTAR for 2.5 years.
+* Previously: worked as a marketing researcher for KANTAR for 2.5 years.
   * Also worked at 3 advertising agencies as an intern.
     * Starcom, Daehong communications, Postvisual  
 * Interested in advertising, media and e-commerce.
