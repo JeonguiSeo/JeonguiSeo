@@ -2,7 +2,9 @@
 * Currently: studying data analytics and engineering w/ Python, SQL, R and etc.
 * Previously: worked as a marketing researcher for KANTAR for 2.5 years.
   * Also worked at 3 advertising agencies as an intern.
-    * Starcom(Media planner), Daehong communications(Account planner), Postvisual(Social writer)  
+    * Starcom(Media planner)
+    * Daehong communications(Account planner)
+    * Postvisual(Social writer)  
 * Interested in advertising, media and e-commerce.
 
 ## Licenses & certifications
